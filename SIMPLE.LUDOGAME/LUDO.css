@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(151, 133, 192);
+} 
+
+.wrapper {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}  
+       
+h1{ 
+  margin: 2%;
+  font-size: 4rem;
+  color: rgb(9, 5, 15);
+}
+
+.dice-area {margin: 0px 50px;
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-size: 2.5rem;
+  color: rgb(158, 30, 30);
+}
+
+img {
+  width: 320px;
+}
+
+
+
